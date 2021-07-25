@@ -14,6 +14,5 @@ Manually generate a decision tree as needed
 3) Finally is fenchi_server.py
 
 3.Example
-
 ![image](https://github.com/Leviclt/Generate-decision-tree-manually/blob/main/save_new_tree.png)
 
